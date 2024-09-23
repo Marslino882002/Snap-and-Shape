@@ -1,0 +1,6 @@
+@Snap___Shape.APIs_HostAddress = http://localhost:5146
+
+GET {{Snap___Shape.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
